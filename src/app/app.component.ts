@@ -1,3 +1,4 @@
+import { TocComponent } from './comp/toc/toc.component';
 import { Component } from '@angular/core';
 
 @Component({
