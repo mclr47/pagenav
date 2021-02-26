@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 https://github.com/angular/angular/tree/master/aio/src/app/custom-elements/toc
 
@@ -31,3 +32,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# pagenav
+>>>>>>> b4549deb9b68c8b274c908af77bbbbb085cc8ea1
